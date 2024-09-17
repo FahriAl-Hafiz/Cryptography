@@ -1,6 +1,6 @@
 # Cryptography
 
-Cryptography dalam cybersecurity adalah praktik serta studi mengenai teknik yang digunakan untuk mengamankan informasi dan komunikasi, agar hanya pihak yang memiliki otoritas yang sah dapat membaca, memproses, atau memodifikasi data tersebut.
+Cryptography dalam adalah praktik serta studi mengenai teknik yang digunakan untuk mengamankan informasi dan komunikasi, agar hanya pihak yang memiliki otoritas yang sah dapat membaca, memproses, atau memodifikasi data tersebut.
 
 Secara sederhana, cryptography melibatkan teknik pengubahan data yang mudah dipahami menjadi bentuk yang sulit atau bahkan tidak mungkin dimengerti tanpa akses ke kunci atau metode dekripsi yang tepat. Hal ini bertujuan untuk melindungi informasi dari akses atau perubahan oleh pihak yang tidak berwenang.
 
