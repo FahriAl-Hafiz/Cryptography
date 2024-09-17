@@ -5,4 +5,3 @@ Cryptography dalam cybersecurity adalah praktik dan studi teknik untuk mengamank
 Dalam konteks keamanan siber, kriptografi digunakan untuk melindungi data dari ancaman seperti pencurian, penyadapan, atau modifikasi data oleh pihak yang tidak berwenang.
 Ini adalah salah satu pilar utama dalam menjaga kerahasiaan, integritas, dan otentikasi data.
 
-Lihat detail lebih lanjut di [HashCalc.md](HashCalc.md).
